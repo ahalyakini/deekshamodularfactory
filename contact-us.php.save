@@ -1,0 +1,293 @@
+<?php include "include/header.inc.php" ?>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11040325499"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+
+function gtag() {
+    dataLayer.push(arguments);
+}
+gtag('js', new Date());
+
+gtag('config', 'AW-11040325499');
+</script>
+
+<div class="ttm-page-title-row">
+    <div class="ttm-page-title-row-inner">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="page-title-heading">
+                        <h2 class="title">Contact Us</h2>
+                    </div>
+                    <div class="breadcrumb-wrapper">
+                        <div class="container">
+                            <div class="breadcrumb-wrapper-inner">
+                                <span>
+                                    <a title="Go to Delmont." href="index.html" class="home"><i
+                                            class="themifyicon ti-home"></i>&nbsp;&nbsp;Home</a>
+                                </span>
+                                <span class="ttm-bread-sep">&nbsp; / &nbsp;</span>
+                                <span>Contact Us</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--site-main start-->
+<div class="site-main">
+    <section class="ttm-row pt-85 res-991-pt-45 pb-0 res-991-pb-0 clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <!--featured-icon-box-->
+                    <div class="featured-icon-box icon-align-top-content style7">
+                        <div class="featured-inner">
+                            <div class="featured-icon">
+                                <div
+                                    class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md ttm-icon_element-style-square">
+                                    <i class="flaticon flaticon-navigation"></i>
+                                </div>
+                            </div>
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3>Visit Us On</h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>Sy No 51/2, Sir M V Road, Surabhi Layout Yelahanka, Bengaluru - 560064</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- featured-icon-box end-->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <!--featured-icon-box-->
+                    <div class="featured-icon-box icon-align-top-content style7">
+                        <div class="featured-inner">
+                            <div class="featured-icon">
+                                <div
+                                    class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md ttm-icon_element-style-square">
+                                    <i class="flaticon flaticon-call-1"></i>
+                                </div>
+                            </div>
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3>Phone Number</h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>+91 -9900378245</p>
+                                    <p>+91 -9742472226</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- featured-icon-box end-->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <!--featured-icon-box-->
+                    <div class="featured-icon-box icon-align-top-content style7">
+                        <div class="featured-inner">
+                            <div class="featured-icon">
+                                <div
+                                    class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md ttm-icon_element-style-square">
+                                    <i class="flaticon flaticon-email"></i>
+                                </div>
+                            </div>
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3>Email Address</h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>deekshamodularfactory@gmail.com</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- featured-icon-box end-->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <!--featured-icon-box-->
+                    <div class="featured-icon-box icon-align-top-content style7">
+                        <div class="featured-inner">
+                            <div class="featured-icon">
+                                <div
+                                    class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md ttm-icon_element-style-square">
+                                    <i class="flaticon flaticon-wall-clock"></i>
+                                </div>
+                            </div>
+                            <div class="featured-content">
+                                <div class="featured-title">
+                                    <h3>Opening Hours</h3>
+                                </div>
+                                <div class="featured-desc">
+                                    <p>Mon - Sat : 9.00 - 6.00</p>
+                                    <p>Sunday : Closed</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- featured-icon-box end-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--- conatact-section -->
+    <section class="ttm-row conatact-section bg-layer-equal-height mt_15 clearfix">
+        <div class="container">
+            <!-- row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <!-- col-img-img-eight -->
+                    <div class="ttm-bg ttm-col-bgcolor-yes ttm-right-span spacing-12">
+                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                        <div class="layer-content">
+                            <!-- section title -->
+                            <div class="section-title">
+                                <div class="title-header">
+                                    <h2 class="title" style="text-align: center;">Send Your Message To Us</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                            <div class="padding_top30">
+
+                                <form id="contact-form" class="wrap-form clearfix" action="contactusdb.php">
+                                    
+                                    <div class="row ttm-boxes-spacing-20px">
+                                        <div class="col-md-6">
+                                            <label>
+                                                <span class="text-input">
+                                                    <input name="fname" type="text" value="" id="fname3"
+                                                        placeholder="First Name..." required>
+                                                </span>
+                                            </label>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label>
+                                                <span class="text-input">
+                                                    <input name="lname" type="text" value="" id="lname3"
+                                                        placeholder="Last Name..." required>
+                                                </span>
+                                            </label>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label>
+                                                <span class="text-input">
+                                                    <input name="email" type="text" value="" id="email3"
+                                                        placeholder="Email Address..." required>
+                                                </span>
+                                            </label>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <label>
+                                                <span class="text-input">
+                                                    <input name="phone" type="text" value="" id="phone3"
+                                                        placeholder="Phone Number..." required></span>
+                                            </label>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <label>
+                                                <span class="text-input">
+                                                    <textarea name="message" cols="50" rows="5" id="message3"
+                                                        placeholder="Enter Message Here..." required></textarea>
+                                                </span>
+                                            </label>
+                                        </div>
+                                        <div class="col-md-12 successRow">
+                                            <span></span>
+                                        </div>
+                                        <div class="col-lg-12">
+                                            <input type="submit" value="Post Comment"
+                                                style="background-color: #bc6c25; color: white; border: 2px solid #bc6c25;  padding: 10px 25px; font-size: 16px; "
+                                                onmouseover="this.style.backgroundColor='white'; this.style.color='#000000'; this.style.border='2px solid #bc6c25';"
+                                                onmouseout="this.style.backgroundColor='#bc6c25'; this.style.color='white'; this.style.border='2px solid #bc6c25';">
+
+
+                                            <div id="contact-messages" class="text-center" style="color: green;"></div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- col-img-bg-img-two end-->
+                </div>
+            </div>
+            <!-- row end -->
+        </div>
+    </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+
+
+    <script>
+    (function($) {
+        'use strict';
+
+        // Get the form.
+        var form = $('#contact-form');
+
+        // Get the messages div.
+        var formMessages = $('#contact-messages');
+
+        // Set up an event listener for the contact form.
+        $(form).submit(function(e) {
+            // Stop the browser from submitting the form.
+            e.preventDefault();
+
+            // Serialize the form data.
+            var formData = $(form).serialize();
+
+            // Submit the form using AJAX.
+            $.ajax({
+                type: 'POST',
+                url: $(form).attr('action'),
+                data: formData,
+                dataType: 'json', // Add this line
+                contentType: 'application/x-www-form-urlencoded; charset=UTF-8', // Add this line
+                success: function(response) {
+                    // Make sure that the formMessages div has the 'success' class.
+                    $(formMessages).removeClass('error');
+                    $(formMessages).addClass('success');
+
+                    // Set the message text.
+                    $(formMessages).text(response);
+
+                    // Clear the form.
+                    $('#fname3').val('');
+                    $('#lname3').val('');
+                    $('#email3').val('');
+                    $('#phone3').val('');
+                    $('#message3').val('');
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    // Make sure that the formMessages div has the 'error' class.
+                    $(formMessages).removeClass('success');
+                    $(formMessages).addClass('error');
+
+                    // Set the message text.
+                    if (jqXHR.responseText !== '') {
+                        $(formMessages).text(jqXHR.responseText);
+                    } else {
+                        $(formMessages).text(
+                            'Oops! An error occurred, and your message could not be sent.');
+                    }
+                }
+            });
+        });
+
+    })(jQuery);
+    </script>
+
+    <!-- conatact-section end -->
+    <!--google_map-->
+    <div id="google_map" class="google_map">
+        <div class="map_container">
+		<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.162201547514!2d77.63262917460553!3d13.0889047122966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1943f5490ac5%3A0xe95493e7981cef74!2sBBS%20Tech%20Solution!5e0!3m2!1sen!2sin!4v1704176742307!5m2!1sen!2sin" width="600" height="450" style="border:0;" ></iframe></p>
+        </div>
+    </div>
+</div>
+<!--site-main end-->
+<?php include"include/footer.inc.php"; ?>
